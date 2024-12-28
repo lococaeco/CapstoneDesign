@@ -1,0 +1,2 @@
+livox_ros_driver2
+-DROS_EDITION=ROS1 -DCATKIN_DEVEL_PREFIX=/home/jongseol/Jongseol_2024/Livox_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jongseol/Jongseol_2024/Livox_ws/install -G Unix Makefiles

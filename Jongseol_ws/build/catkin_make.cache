@@ -1,0 +1,2 @@
+Jongseol:Total_msgs:serial_control:serial_encoder
+-DCATKIN_DEVEL_PREFIX=/home/autonav/Jongseol_2024/Jongseol_ws/devel -DCMAKE_INSTALL_PREFIX=/home/autonav/Jongseol_2024/Jongseol_ws/install -G Unix Makefiles

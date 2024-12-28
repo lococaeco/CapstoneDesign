@@ -1,0 +1,8 @@
+prefix=/home/autonav/Jongseol_2024/Jongseol_ws/install
+
+Name: Total_msgs
+Description: Description of Total_msgs
+Version: 0.0.0
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime
